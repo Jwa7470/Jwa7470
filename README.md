@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Filtering SQL Queries LAB](https://github.com/Jwa7470/SQL-Database-Filtered-Query-LAB)
   - [Network Monitoring and Analysis](github.com/url)
   - Passive Reconnaissance and Network Sniffing
   - Firewall Configuration and Testing
