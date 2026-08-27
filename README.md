@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Labs
+Course Labs
   - [Filtering SQL Queries LAB](https://github.com/Jwa7470/SQL-Database-Filtered-Query-LAB)
   - [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
   - [Auditing Windows Systems for Security Compliance](https://github.com/Jwa7470/Auditing-Windows-Systems-for-Security-Compliance-Lab)
