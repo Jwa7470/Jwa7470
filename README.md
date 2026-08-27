@@ -27,7 +27,7 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 - Network Defense Against Simulated Attacks
 - Identifying and Removing Malware from Windows Systems
 - Securing Internet Client and Server Applications on Windows
-- Configuring VPN Client for Secure File Transfers
+- [Configuring VPN Client for Secure File Transfers](https://github.com/Jwa7470/Configuring-VPN-Client-for-Secure-File-Transfers-Lab)
 
 ## Databases
 - [Filtering SQL Queries LAB](https://github.com/Jwa7470/SQL-Database-Filtered-Query-LAB)
