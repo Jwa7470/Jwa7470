@@ -5,7 +5,7 @@
 Labs
   - [Filtering SQL Queries LAB](https://github.com/Jwa7470/SQL-Database-Filtered-Query-LAB)
   - [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
-  - Auditing Windows Systems for Security Compliance
+  - [Auditing Windows Systems for Security Compliance](https://github.com/Jwa7470/Auditing-Windows-Systems-for-Security-Compliance-Lab)
   - Configuring VPN Client for Secure File Transfers
   - Configuring Microsoft File Encryption System
   - Creating Scheduled Backup and Replicating System Folders
