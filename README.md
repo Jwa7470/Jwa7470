@@ -1,28 +1,40 @@
 <h1>Hi, I'm Joshua! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# 👨‍💻 Course Labs / Projects
 
-Course Labs
-  - [Filtering SQL Queries LAB](https://github.com/Jwa7470/SQL-Database-Filtered-Query-LAB)
-  - [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
-  - [Auditing Windows Systems for Security Compliance](https://github.com/Jwa7470/Auditing-Windows-Systems-for-Security-Compliance-Lab)
-  - Configuring VPN Client for Secure File Transfers
-  - Configuring Microsoft File Encryption System
-  - Creating Scheduled Backup and Replicating System Folders
-  - Network Defense Against Simulated Attacks
-  - Designing a Secure Network Topology
-  - Windows System Hardening for Security Compliance
-  - Identifying and Removing Malware from Windows Systems
-  - Implementing Access Controls with Windows Active Directory
-  - Passive Reconnaissance and Network Monitoring
-  - Firewall Configuration and Testing
-  - Managing Group Policy within the Microsoft Environment
-  - Monitoring and Logging Network Traffic
-  - Performing Passive Reconnaissance
-  - Securing Internet Client and Server Applications on Windows
-  - Using Access Control Lists to Modify File System Permissions on Windows Systsems
+A collection of hands-on cybersecurity and IT lab exercises covering network security, Windows systems administration, security auditing, and database management, completed as part of coursework toward a B.S. in Cybersecurity and Information Assurance.
 
-Report and Documentations
+---
+
+## Networking & Traffic Analysis
+- [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
+- Passive Reconnaissance and Network Monitoring
+- Performing Passive Reconnaissance
+- Monitoring and Logging Network Traffic
+- Firewall Configuration and Testing
+- Designing a Secure Network Topology
+
+## Windows Systems & Compliance
+- [Auditing Windows Systems for Security Compliance](https://github.com/Jwa7470/Auditing-Windows-Systems-for-Security-Compliance-Lab)
+- Windows System Hardening for Security Compliance
+- Implementing Access Controls with Windows Active Directory
+- Managing Group Policy within the Microsoft Environment
+- Using Access Control Lists to Modify File System Permissions on Windows Systems
+- Configuring Microsoft File Encryption System
+- Creating Scheduled Backup and Replicating System Folders
+
+## Security Operations & Defense
+- Network Defense Against Simulated Attacks
+- Identifying and Removing Malware from Windows Systems
+- Securing Internet Client and Server Applications on Windows
+- Configuring VPN Client for Secure File Transfers
+
+## Databases
+- [Filtering SQL Queries LAB](https://github.com/Jwa7470/SQL-Database-Filtered-Query-LAB)
+
+---
+
+*Repos without a link have not yet been uploaded. Some existing repos are placeholders pending a redo of the lab for a cleaner writeup.*
   - CVE-2026-20131 Post-Incident Report Lab
   - 2025 Oracle SSO LDAP Attack, Post-Incident Report Lab
   - 2020 SolarWinds Supply-Chain Attack, Post-Incident Report Lab
