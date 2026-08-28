@@ -8,25 +8,23 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 
 ## Networking & Traffic Analysis
 - [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
-- Passive Reconnaissance and Network Monitoring
-- Performing Passive Reconnaissance
-- Monitoring and Logging Network Traffic
-- Firewall Configuration and Testing
-- Designing a Secure Network Topology
+- [Performing Passive Reconnaissance](https://github.com/Jwa7470/Passive-Reconnaissance-and-Network-Monitoring-Lab)
+- [Monitoring and Logging Network Traffic](https://github.com/Jwa7470/Monitoring-and-Logging-Network-Traffic)
+- [Designing a Secure Network Topology](https://github.com/Jwa7470/Designing-a-Secure-Network-Topology-Lab)
 
 ## Windows Systems & Compliance
 - [Auditing Windows Systems for Security Compliance](https://github.com/Jwa7470/Auditing-Windows-Systems-for-Security-Compliance-Lab)
-- Windows System Hardening for Security Compliance
-- Implementing Access Controls with Windows Active Directory
-- Managing Group Policy within the Microsoft Environment
-- Using Access Control Lists to Modify File System Permissions on Windows Systems
-- Configuring Microsoft File Encryption System
-- Creating Scheduled Backup and Replicating System Folders
+- [Windows System Hardening for Security Compliance](https://github.com/Jwa7470/Windows-System-Hardening-for-Security-Compliance-Lab)
+- [Implementing Access Controls with Windows Active Directory](https://github.com/Jwa7470/Implementing-Access-Controls-with-Windows-Active-Directory-Lab)
+- [Managing Group Policy within the Microsoft Environment](https://github.com/Jwa7470/Managing-Group-Policy-within-the-Microsoft-Environment-Lab)
+- [Using Access Control Lists to Modify File System Permissions on Windows Systems](https://github.com/Jwa7470/Using-Access-Control-Lists-to-Modify-File-System-Permissions-on-Windows-Systems-Lab) *
+- [Configuring Microsoft File Encryption System](https://github.com/Jwa7470/Configuring-Microsoft-File-Encryption-System-Lab)
+- [Creating Scheduled Backups and Replicating System Folders](https://github.com/Jwa7470/Creating-Scheduled-Backups-and-Replicating-System-Folders-Lab)
 
 ## Security Operations & Defense
-- Network Defense Against Simulated Attacks
-- Identifying and Removing Malware from Windows Systems
-- Securing Internet Client and Server Applications on Windows
+- [Network Defense Against Simulated Attacks](https://github.com/Jwa7470/Network-Defense-Against-Simulated-Attacks-Lab)
+- [Identifying and Removing Malware from Windows Systems](https://github.com/Jwa7470/Identifying-and-Removing-Malware-from-Windows-Systems-Lab) *
+- [Securing Internet Client and Server Applications on Windows](https://github.com/Jwa7470/Securing-Internet-Client-and-Server-Applications-on-Windows-Lab) *
 - [Configuring VPN Client for Secure File Transfers](https://github.com/Jwa7470/Configuring-VPN-Client-for-Secure-File-Transfers-Lab)
 
 ## Databases
@@ -35,7 +33,9 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 ---
 
 *Repos without a link have not yet been uploaded. Some existing repos are placeholders pending a redo of the lab for a cleaner writeup.*
-  - CVE-2026-20131 Post-Incident Report Lab
+
+Written Lab Reports
+  - [CVE-2026-20131 Post-Incident Report Lab](https://github.com/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report)
   - 2025 Oracle SSO LDAP Attack, Post-Incident Report Lab
   - 2020 SolarWinds Supply-Chain Attack, Post-Incident Report Lab
   - High-Level Network Infrastructure Design Plan Document
