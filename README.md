@@ -34,12 +34,12 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 
 *Repos without a link have not yet been uploaded. Some existing repos are placeholders pending a redo of the lab for a cleaner writeup.*
 
-Written Lab Reports
+## Written Lab Reports
+  - [2025 Oracle SSO LDAP Attack, Post-Incident Report Lab](https://github.com/Jwa7470/2025-Oracle-SSO-LDAP-Attack-Post-Incident-Written-Report)
+  - [High-Level Network Infrastructure Design Plan Document](https://github.com/Jwa7470/High-Level-Network-Infrastructure-Design-Plan-Written-Document)
   - [CVE-2026-20131 Post-Incident Report Lab](https://github.com/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report)
-  - 2025 Oracle SSO LDAP Attack, Post-Incident Report Lab
-  - 2020 SolarWinds Supply-Chain Attack, Post-Incident Report Lab
-  - High-Level Network Infrastructure Design Plan Document
-  - VPN Connection to Internal Network Architecture Plan Document
+  - [2020 SolarWinds Supply-Chain Attack, Post-Incident Report Lab](https://github.com/Jwa7470/2020-SolarWinds-Supply-Chain-Attack-Post-Incident-Written-Report)
+  - [VPN Connection to Internal Network Architecture Plan Document](https://github.com/Jwa7470/VPN-Connection-to-Internal-Network-Architecture-Plan-Written-Document)
 
 <h2> 🤳 Connect with me:</h2>
 
