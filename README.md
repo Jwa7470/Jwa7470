@@ -7,8 +7,9 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 ---
 
 ## Networking & Traffic Analysis
-- [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
+- [Performing Active Reconnaissance](https://github.com/Jwa7470/Performing-Active-Reconnaissance-Lab)
 - [Performing Passive Reconnaissance](https://github.com/Jwa7470/Passive-Reconnaissance-and-Network-Monitoring-Lab)
+- [Network Assessment with Security Tools](https://github.com/Jwa7470/Network-Assessment-with-Security-Tools-Lab)
 - [Monitoring and Logging Network Traffic](https://github.com/Jwa7470/Monitoring-and-Logging-Network-Traffic)
 - [Designing a Secure Network Topology](https://github.com/Jwa7470/Designing-a-Secure-Network-Topology-Lab)
 
