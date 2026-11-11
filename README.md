@@ -18,7 +18,7 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 - [Windows System Hardening for Security Compliance](https://github.com/Jwa7470/Windows-System-Hardening-for-Security-Compliance-Lab)
 - [Implementing Access Controls with Windows Active Directory](https://github.com/Jwa7470/Implementing-Access-Controls-with-Windows-Active-Directory-Lab)
 - [Managing Group Policy within the Microsoft Environment](https://github.com/Jwa7470/Managing-Group-Policy-within-the-Microsoft-Environment-Lab)
-- [Using Access Control Lists to Modify File System Permissions on Windows Systems](https://github.com/Jwa7470/Using-Access-Control-Lists-to-Modify-File-System-Permissions-on-Windows-Systems-Lab) *
+- [Using Access Control Lists to Modify File System Permissions on Windows Systems](https://github.com/Jwa7470/Using-Access-Control-Lists-to-Modify-File-System-Permissions-on-Windows-Systems-Lab)
 - [Configuring Microsoft File Encryption System](https://github.com/Jwa7470/Configuring-Microsoft-File-Encryption-System-Lab)
 - [Creating Scheduled Backups and Replicating System Folders](https://github.com/Jwa7470/Creating-Scheduled-Backups-and-Replicating-System-Folders-Lab)
 
