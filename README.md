@@ -24,8 +24,8 @@ A collection of hands-on cybersecurity and IT lab exercises covering network sec
 
 ## Security Operations & Defense
 - [Network Defense Against Simulated Attacks](https://github.com/Jwa7470/Network-Defense-Against-Simulated-Attacks-Lab)
-- [Identifying and Removing Malware from Windows Systems](https://github.com/Jwa7470/Identifying-and-Removing-Malware-from-Windows-Systems-Lab) *
-- [Securing Internet Client and Server Applications on Windows](https://github.com/Jwa7470/Securing-Internet-Client-and-Server-Applications-on-Windows-Lab) *
+- [Identifying and Removing Malware from Windows Systems](https://github.com/Jwa7470/Identifying-and-Removing-Malware-from-Windows-Systems-Lab)
+- [Securing Internet Client and Server Applications on Windows](https://github.com/Jwa7470/Securing-Internet-Client-and-Server-Applications-on-Windows-Lab)
 - [Configuring VPN Client for Secure File Transfers](https://github.com/Jwa7470/Configuring-VPN-Client-for-Secure-File-Transfers-Lab)
 
 ## Databases
